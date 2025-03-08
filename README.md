@@ -17,3 +17,4 @@ The Productivity Tracker is a Chrome extension designed to help users monitor an
 Monitors how much time you spend on each website. Displays browsing time for different sites in a simple UI
 
 output:
+![Image](https://github.com/user-attachments/assets/369c0cf2-058c-4aa3-9d7c-703d7b2c3fce)
