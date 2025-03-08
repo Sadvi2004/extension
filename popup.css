@@ -1,0 +1,15 @@
+body {
+    width: 300px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+#stats {
+    background: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+}
